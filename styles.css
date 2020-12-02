@@ -1,0 +1,41 @@
+body {
+    background: gray;
+}
+
+h1 {
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: green;
+}
+
+#header {
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+#socials {
+    background: honeydew;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 35%;
+}
+
+#navlinks {
+    position: fixed;
+}
+
+a {
+    background: orange;
+}
+
+#footer {
+    background: yellow;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#copyright {
+    color: white;
+    text-align: center;
+}
